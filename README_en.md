@@ -10,9 +10,9 @@
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mattholy/CAATsSQLServer.svg?style=for-the-badge)](https://github.com/mattholy/CAATsSQLServer)
 [![GitHub license](https://img.shields.io/github/license/mattholy/CAATsSQLServer.svg?style=for-the-badge)](https://github.com/mattholy/CAATsSQLServer/blob/master/LICENSE)
 
-Can't read Chinese?
+Can't read English?
 
-[![GitHub license](https://img.shields.io/badge/Readme-English%20version-brightgreen.svg)](https://github.com/mattholy/CAATsSQLServer/blob/master/README_en.md)
+[![GitHub license](https://img.shields.io/badge/Readme-%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC-green.svg)](https://github.com/mattholy/CAATsSQLServer/blob/master/README.md)
 
 ## 什么是CAATs？
 
