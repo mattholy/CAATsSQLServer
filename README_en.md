@@ -2,15 +2,15 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/mattholy/CAATsSQLServer.svg?style=for-the-badge)](https://github.com/mattholy/CAATsSQLServer/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/mattholy/CAATsSQLServer.svg?style=for-the-badge)](https://github.com/mattholy/CAATsSQLServer/issues)
-[![GitHub release](https://img.shields.io/github/release/mattholy/CAATsSQLServer.svg?style=for-the-badge)](https://github.com/mattholy/CAATsSQLServer)
+[![GitHub license](https://img.shields.io/github/license/mattholy/CAATsSQLServer.svg?style=for-the-badge)](https://github.com/mattholy/CAATsSQLServer/blob/master/LICENSE)
 
+[![GitHub release](https://img.shields.io/github/release/mattholy/CAATsSQLServer.svg?style=for-the-badge)](https://github.com/mattholy/CAATsSQLServer)
 [![Github commits (since latest release)](https://img.shields.io/github/commits-since/mattholy/CAATsSQLServer/latest.svg?style=for-the-badge)](https://github.com/mattholy/CAATsSQLServer)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mattholy/CAATsSQLServer.svg?style=for-the-badge)](https://github.com/mattholy/CAATsSQLServer)
-[![GitHub license](https://img.shields.io/github/license/mattholy/CAATsSQLServer.svg?style=for-the-badge)](https://github.com/mattholy/CAATsSQLServer/blob/master/LICENSE)
 
 [![Build status](https://ci.appveyor.com/api/projects/status/ty3ru0r75oj03uky?svg=true)](https://github.com/mattholy/CAATsSQLServer)
 
-Can't read English?
+**Can't read English?**
 
 [![GitHub license](https://img.shields.io/badge/Readme-%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC-green.svg)](https://github.com/mattholy/CAATsSQLServer/blob/master/README.md)
 
