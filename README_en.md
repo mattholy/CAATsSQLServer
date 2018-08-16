@@ -4,11 +4,11 @@
 [![GitHub issues](https://img.shields.io/github/issues/mattholy/CAATsSQLServer.svg?style=for-the-badge)](https://github.com/mattholy/CAATsSQLServer/issues)
 [![GitHub release](https://img.shields.io/github/release/mattholy/CAATsSQLServer.svg?style=for-the-badge)](https://github.com/mattholy/CAATsSQLServer)
 
-
-
 [![Github commits (since latest release)](https://img.shields.io/github/commits-since/mattholy/CAATsSQLServer/latest.svg?style=for-the-badge)](https://github.com/mattholy/CAATsSQLServer)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mattholy/CAATsSQLServer.svg?style=for-the-badge)](https://github.com/mattholy/CAATsSQLServer)
 [![GitHub license](https://img.shields.io/github/license/mattholy/CAATsSQLServer.svg?style=for-the-badge)](https://github.com/mattholy/CAATsSQLServer/blob/master/LICENSE)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/ty3ru0r75oj03uky?svg=true)](https://github.com/mattholy/CAATsSQLServer)
 
 Can't read English?
 
@@ -28,9 +28,9 @@ CAATs Tools是一大堆工具的集合，有机结合，他使得你可以更加
 
 项目|版本|结果|备注
 :--:|:--:|:--:|:--:
-SQL|SQL Server 2018|[![Build status](https://ci.appveyor.com/api/projects/status/ty3ru0r75oj03uky?svg=true)](https://ci.appveyor.com/project/mattholy/caatssqlserver)|其它版本未做测试，如MySQL等其他SQl语言可能需要额外适配
-VBA|Microsoft Office 365|[![Build status](https://ci.appveyor.com/api/projects/status/ty3ru0r75oj03uky?svg=true)](https://ci.appveyor.com/project/mattholy/caatssqlserver)|其它版本未做测试
-CMD|Windows 10|[![Build status](https://ci.appveyor.com/api/projects/status/ty3ru0r75oj03uky?svg=true)](https://ci.appveyor.com/project/mattholy/caatssqlserver)|理论来讲，你可能需要管理员权限，也可能不要
+SQL|SQL Server 2018|[![Build status](https://ci.appveyor.com/api/projects/status/ty3ru0r75oj03uky?svg=true)](https://github.com/mattholy/CAATsSQLServer)|其它版本未做测试，如MySQL等其他SQl语言可能需要额外适配
+VBA|Microsoft Office 365|[![Build status](https://ci.appveyor.com/api/projects/status/ty3ru0r75oj03uky?svg=true)](https://github.com/mattholy/CAATsSQLServer)|其它版本未做测试
+CMD|Windows 10|[![Build status](https://ci.appveyor.com/api/projects/status/ty3ru0r75oj03uky?svg=true)](https://github.com/mattholy/CAATsSQLServer)|理论来讲，你可能需要管理员权限，也可能不要
 
 ## 其它
 
