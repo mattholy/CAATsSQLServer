@@ -1,5 +1,7 @@
 # CAATs Tools
 
+[![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg?style=for-the-badge)](https://github.com/mattholy/CAATsSQLServer)
+
 Can't read any Chinese?
 See English Version
 
