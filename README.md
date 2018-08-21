@@ -34,6 +34,5 @@ CMD|Windows 10|[![Build status](https://ci.appveyor.com/api/projects/status/ty3r
 
 ## 其它
 
- 有好点子欢迎提issue，BUG也行咯
-
- ----
+### 出了一点点问题或是有建议？
+[点击这里向我们提交吧](https://github.com/mattholy/CAATsSQLServer/issues/new/choose)
