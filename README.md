@@ -28,7 +28,7 @@ CAATs Tools是一大堆工具的集合，有机结合，他使得你可以更加
 
 项目|版本|结果|备注
 :--:|:--:|:--:|:--:
-SQL|SQL Server 2018|[![Build status](https://ci.appveyor.com/api/projects/status/ty3ru0r75oj03uky?svg=true)](https://github.com/mattholy/CAATsSQLServer)|其它版本未做测试，如MySQL等其他SQl语言可能需要额外适配
+SQL|SQL Server 2017|[![Build status](https://ci.appveyor.com/api/projects/status/ty3ru0r75oj03uky?svg=true)](https://github.com/mattholy/CAATsSQLServer)|其它版本未做测试，如MySQL等其他SQl语言可能需要额外适配
 VBA|Microsoft Office 365|[![Build status](https://ci.appveyor.com/api/projects/status/ty3ru0r75oj03uky?svg=true)](https://github.com/mattholy/CAATsSQLServer)|其它版本未做测试
 CMD|Windows 10|[![Build status](https://ci.appveyor.com/api/projects/status/ty3ru0r75oj03uky?svg=true)](https://github.com/mattholy/CAATsSQLServer)|理论来讲，你可能需要管理员权限，也可能不要
 
